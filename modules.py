@@ -20,21 +20,21 @@
 # print(id)
 
 
-installed module 
-import camelcase 
-text = 'hello,welcome to torilo'
-print(c.hump(text))
+# installed module 
+# import camelcase 
+# text = 'hello,welcome to torilo'
+# print(c.hump(text))
 
 
-custom
-from assignment import person 
-from assignment import person as py 
-from assignment import *
+# custom
+# from assignment import person 
+# from assignment import person as py 
+# from assignment import *
 
-print (py)
+# print (py)
 
-print('''
-   please select a number to continue 
-      1.addition       2.subtraction
-      3.multiplication 4.division z
-''')
+# print('''
+#    please select a number to continue 
+#       1.addition       2.subtraction
+#       3.multiplication 4.division z
+# ''')
